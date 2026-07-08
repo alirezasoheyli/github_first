@@ -1,0 +1,11 @@
+﻿column,missing_count_in_real_estate_service,missing_percent_in_real_estate_service,missing_percent_overall
+land_size,19403,100.0,81.3604
+effective_monthly_rent,19403,100.0,64.6875
+construction_year,19403,100.0,18.4172
+rooms_count,19403,100.0,15.410099999999998
+credit_value,19401,99.9896923156213,65.07690000000001
+rent_value,19401,99.9896923156213,70.7919
+building_size,19397,99.9690769468639,1.9606
+price_value,18194,93.76900479307324,43.3556
+location_latitude,8400,43.29227439055816,34.4417
+location_longitude,8400,43.29227439055816,34.4417

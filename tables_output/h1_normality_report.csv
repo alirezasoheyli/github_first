@@ -1,0 +1,3 @@
+﻿group,value_column,shapiro_statistic,p_value,alpha,decision
+metro,building_size,0.30292329660070094,1.6907790336024121e-87,0.05,normality rejected
+small_or_village,building_size,0.38643881869080676,1.2289335406039545e-84,0.05,normality rejected

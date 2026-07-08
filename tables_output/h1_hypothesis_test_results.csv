@@ -1,0 +1,4 @@
+﻿test,statistic,p_value,alpha,decision
+Welch t-test,-81.25281598975269,0.0,0.05,Reject H0
+Mann-Whitney U,68043792153.0,0.0,0.05,Reject H0
+Cohen's d,-0.18071101081382848,,,Effect size only
